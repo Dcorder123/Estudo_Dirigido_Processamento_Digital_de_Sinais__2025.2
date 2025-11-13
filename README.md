@@ -20,7 +20,7 @@ Todo o conteúdo foi implementado em **notebooks interativos do Google Colab**, 
     </td>
     <td align="center">
       <a href="https://github.com/victorjcm" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Avatar Victor"/><br>
+        <img src="https://avatars.githubusercontent.com/u/79644504?v=4" width="100px;" alt="Avatar Victor"/><br>
         <sub>
           <b>Victor José de Medeiros</b>
         </sub>
