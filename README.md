@@ -12,7 +12,7 @@ Todo o conteúdo foi implementado em **notebooks interativos do Google Colab**, 
   <tr>
     <td align="center">
       <a href="https://github.com/Dcorder123" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Avatar Daniel"/><br>
+        <img src="https://avatars.githubusercontent.com/u/101361658?v=4" width="100px;" alt="Avatar Daniel"/><br>
         <sub>
           <b>Daniel Barbosa Vasconcelos</b>
         </sub>
