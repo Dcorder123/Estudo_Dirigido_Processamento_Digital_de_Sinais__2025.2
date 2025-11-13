@@ -11,7 +11,7 @@ Todo o conteúdo foi implementado em **notebooks interativos do Google Colab**, 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
+      <a href="https://github.com/Dcorder123" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Avatar Daniel"/><br>
         <sub>
           <b>Daniel Barbosa Vasconcelos</b>
@@ -19,7 +19,7 @@ Todo o conteúdo foi implementado em **notebooks interativos do Google Colab**, 
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
+      <a href="https://github.com/victorjcm" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/0?v=4" width="100px;" alt="Avatar Victor"/><br>
         <sub>
           <b>Victor José de Medeiros</b>
