@@ -44,7 +44,7 @@ O estudo dirigido é dividido em 4 partes principais, abordando desde os fundame
 
 ### 🎧 Parte 2: Transformadas Z e de Fourier
 *Foca na Transformada-Z, Região de Convergência (ROC), DTFT, DFT e análise espectral com janelamento.*
-- 📒 [Notebook/Colab em breve]
+- 📒 **[Acessar Notebook/Colab](https://colab.research.google.com/drive/1uSJTJJM62qhGz3DQn-stx7juAnVNfZVW?usp=sharing)**
 - 📅 **Data de Entrega:** 26/11/2025
 
 ---
