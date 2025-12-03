@@ -51,7 +51,7 @@ O estudo dirigido é dividido em 4 partes principais, abordando desde os fundame
 
 ### 🧪 Parte 3: Filtros Digitais (FIR e IIR)
 *Comparativo entre filtros FIR e IIR, estruturas de implementação e métodos de projeto (janelas, transformação bilinear).*
-- 📒 [Notebook/Colab em breve]
+- 📒 **[Acessar Notebook/Colab](https://colab.research.google.com/drive/1Ar8HKFyMp7QcLk8YPtMnsxovgfqNQNys?usp=sharing)**
 - 📅 **Data de Entrega:** 03/12/2025
 
 ---
