@@ -58,7 +58,7 @@ O estudo dirigido é dividido em 4 partes principais, abordando desde os fundame
 
 ### ⚙️ Parte 4: Mini-Projeto Aplicado de Filtragem
 *Aplicação prática de filtragem digital em um sinal real (áudio, ECG, sensor, etc) com análise de métricas de desempenho.*
-- 📒 [Notebook/Colab em breve]
+- 📒 **[Acessar Notebook/Colab](https://colab.research.google.com/drive/1MAlwdfGw1nlTeQmwfMuVEfbqmMmug_uu?usp=sharing)**
 - 📅 **Data de Entrega Final:** 10/12/2025
 
 ---
